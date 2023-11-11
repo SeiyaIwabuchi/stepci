@@ -10,7 +10,7 @@
     "dist"
   ],
   "dependencies": {
-    "@stepci/plugin-openapi": "^0.3.5",
+    "@stepci/plugin-openapi": "github:SeiyaIwabuchi/plugin-openapi",
     "@stepci/runner": "github:SeiyaIwabuchi/runner",
     "chalk": "^4.1.2",
     "ci-info": "^3.5.0",
